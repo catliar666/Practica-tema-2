@@ -20,7 +20,8 @@ Curso: 1ºDAM
 	- ¿Qué se muestra?
 
 ------------
-##Cómo descargar el archivo :floppy_disk:
+## Cómo descargar el archivo :floppy_disk:
+
 Para descargar el archivo debemos clickear en el botón verde del repositorio.
 ![](https://cdn.discordapp.com/attachments/1161335251021332530/1174445276006731807/image.png?ex=65679e65&is=65552965&hm=ee96000377e7ed1f040d59ebcd0597a50a02fae977deb8dcdbf4ecb9562a4603&)
 Al clickearlo nos mostrará un menú como el que vemos en pantalla, debemos clickear en la opción "Download ZIP"
