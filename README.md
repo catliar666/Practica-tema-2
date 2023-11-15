@@ -60,7 +60,7 @@ Al elegir la opcion 1 nos mostrará el menú de acontinuación.
 Aquí se mostrará tanto las reservas que están activas actualmente como los ingresos de reservas finalizadas.
 Para poder salir de este menú, tendremos que pulsar la tecla Enter y nos llevará nuevamente al menú de inicio para poder elegir otras opciones.
 #### Monedas y billetes restantes para el cambio
-Si escogemos la opcion 2 nos mostrará lo siguiente:
+Si escogemos la opcion 2 nos mostrará lo siguiente.
 
 ![](https://cdn.discordapp.com/attachments/1161335251021332530/1174437814381850795/image.png?ex=65679772&is=65552272&hm=973f0470a3d417fac56bcc144df4ab2416a5da06bc6c54541ba5c7b95c4c8545&)
 
@@ -77,12 +77,12 @@ Si escogemos la última opción, la número 3, apagaremos el software y finaliza
 
 Al elegir está opción se nos mostrará esta interfaz, te preguntará cuántos huespedes sois (mínimo 1, máximo 2) y deberá introducir con un número la cantidad de huespedes.
 Una vez indicada le aparecerá un menú distinto dependiendo de la cantidad introducida.
-Si has introducido 1 huesped te muestra el siguiente menú:
+Si has introducido 1 huesped te muestra el siguiente menú.
 ![](https://cdn.discordapp.com/attachments/1161335251021332530/1174438404486877194/image.png?ex=656797ff&is=655522ff&hm=50f6c15bbb9ccacab3d464d39de724d9793316076b89ed8d70db85f8846736b3&)
 
 Aquí elegiremos la habitación que más nos guste y si está libre se procederá a la reserva, sino, te pedirá que elijas otra.
 Si procede con la reserva te hará una serie de preguntas que deberas responder correctamente, las cuales sus respuestas te servirán luego para poder realizar el checkout.
-Si has introducido 2 huespedes te mostrará el siguiente menú:
+Si has introducido 2 huespedes te mostrará el siguiente menú.
 ![](https://cdn.discordapp.com/attachments/1161335251021332530/1174438563669090334/image.png?ex=65679825&is=65552325&hm=743c632cddb70a429eb2d2850c02bdac642ba0e1fb5883793c81a37770b6ae88&)
 
 Aquí elegiremos la habitación que más nos guste y si está libre se procederá a la reserva, sino, te pedirá que elijas otra.
