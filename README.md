@@ -19,7 +19,19 @@ Curso: 1ºDAM
 	- ¿Qué se muestra?
 
 ------------
+##Cómo descargar el archivo :floppy_disk:
+Para descargar el archivo debemos clickear en el botón verde del repositorio.
+![](https://cdn.discordapp.com/attachments/1161335251021332530/1174445276006731807/image.png?ex=65679e65&is=65552965&hm=ee96000377e7ed1f040d59ebcd0597a50a02fae977deb8dcdbf4ecb9562a4603&)
+Al clickearlo nos mostrará un menú como el que vemos en pantalla, debemos clickear en la opción "Download ZIP"
+Extraemos el archivo descargado
+![](https://cdn.discordapp.com/attachments/1161335251021332530/1174445839570190376/image.png?ex=65679eec&is=655529ec&hm=6f153b004f10098bc452d0ad316412c0c07bef9771452271bf2b7b935e8391fc&)
+Una vez extraido, abrimos la carpeta y extraemos el archivo rar en la misma carpeta abierta.
+![](https://cdn.discordapp.com/attachments/1161335251021332530/1174446184958541844/image.png?ex=65679f3e&is=65552a3e&hm=7040ffaff87139467a9af0d355f55b3f625770d84b92ead6b75a45a3f5a6c589&)
+Cuando terminemos de extraer ese archivo, abriremos la carpeta que se creo al extraerlo y ejecutaremos el archivo "Hotel".
+Terminados esos pasos podremos visualizar nuestro programa y comenzar a utilizarlo.
 
+En los siguientes apartados te mostramos cómo se utiliza y qué contiene.
+------------
 ## Menú principal :1234:
 ------------
 ### ¿Cómo funciona? :star:
