@@ -33,7 +33,7 @@ Cuando terminemos de extraer ese archivo, abriremos la carpeta que se creo al ex
 Terminados esos pasos podremos visualizar nuestro programa y comenzar a utilizarlo.
 
 En los siguientes apartados te mostramos cómo se utiliza y qué contiene.
-------------
+
 ## Menú principal :1234:
 ------------
 ### ¿Cómo funciona? :star:
