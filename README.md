@@ -4,6 +4,7 @@ Curso: 1ºDAM
 
 # :book: Manual de usuario :book:
 ## Indice
+- Cómo descargar el archivo
 - Menú principal
 	- ¿Cómo funciona?
 - Menú de administrador
