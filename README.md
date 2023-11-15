@@ -61,6 +61,7 @@ Aquí se mostrará tanto las reservas que están activas actualmente como los in
 Para poder salir de este menú, tendremos que pulsar la tecla Enter y nos llevará nuevamente al menú de inicio para poder elegir otras opciones.
 #### Monedas y billetes restantes para el cambio
 Si escogemos la opcion 2 nos mostrará lo siguiente:
+
 ![](https://cdn.discordapp.com/attachments/1161335251021332530/1174437814381850795/image.png?ex=65679772&is=65552272&hm=973f0470a3d417fac56bcc144df4ab2416a5da06bc6c54541ba5c7b95c4c8545&)
 
 Simplemente este menú te muestra cuantas monedas y billetes quedan para seguir realizando el cobro de las facturas.
