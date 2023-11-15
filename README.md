@@ -2,7 +2,7 @@
 Practica tema 2 hecha por Ahmed y Maria
 Curso: 1ºDAM
 
-# :tw-1f4d6: Manual de usuario :tw-1f4d6:
+# :book: Manual de usuario :book:
 ## Indice
 - Menú principal
 	- ¿Cómo funciona?
@@ -20,16 +20,16 @@ Curso: 1ºDAM
 
 ------------
 
-## Menú principal :tw-1f522:
+## Menú principal :1234:
 ------------
-### ¿Cómo funciona? :tw-2b50:
+### ¿Cómo funciona? :star:
 ![Menú de inicio](https://cdn.discordapp.com/attachments/1161335251021332530/1174403796235984936/image.png?ex=656777c4&is=655502c4&hm=b62bfdce117d3c94fabb77302282cd4c220097d9486959b1063ab8a979d64e7e&)
 
 Como ves en la imagen, el menú consta de 4 opciones, cada opción te conducirá a distintos menús con distintas funciones, en relacion a lo que usted esté interesado.
 
-## Menú de administrador :tw-1f522:
+## Menú de administrador :1234:
 ------------
-### ¿Cómo entrar? :tw-2b50:
+### ¿Cómo entrar? :star:
 ![](https://cdn.discordapp.com/attachments/1161335251021332530/1174437272465178644/image.png?ex=656796f1&is=655521f1&hm=24afa8a7a2b167455344d6cdd9d417e38f06c5059ac673c15810a61a2d1ef57d&)
 
 Para que este menú te haya salido en pantalla debes haber seleccionado antes la opcion número 1 y haber pulsado enter, esta acción te conducirá al menú que ves en la imagen.
@@ -55,9 +55,9 @@ Para poder salir de este menú tendremos que pulsar la tecla Enter y nos llevar�
 Si escogemos la última opción, la número 3, apagaremos el software y finalizará el programa, está opción es la unica en todo el software que sirve para finalizar el programa y solo se encuentra en el menú de administrador.
 ![](https://cdn.discordapp.com/attachments/1161335251021332530/1174437943683846154/image.png?ex=65679791&is=65552291&hm=40909cc67d00a880c82b7fc6cb13058526c38891bb92943a4d74264e03565069&)
 
-### Menú de reservar habitación :tw-1f522:
+### Menú de reservar habitación :1234:
 ------------
-#### ¿Cómo se utiliza? :tw-2b50: 
+#### ¿Cómo se utiliza? :star: 
 ![](https://cdn.discordapp.com/attachments/1161335251021332530/1174438284492017744/image.png?ex=656797e3&is=655522e3&hm=9a4965171e9260d8e8adf1a683b8f2e2362b4b93557af90e5e69b419aaa12931&)
 
 Al elegir está opción se nos mostrará esta interfaz, te preguntará cuántos huespedes sois (mínimo 1, máximo 2) y deberá introducir con un número la cantidad de huespedes.
@@ -77,9 +77,9 @@ Si procede con la reserva te hará una serie de preguntas que deberas responder 
 Para responder a la pregunta del DNI deberá introducir todos sus 7 números correctos y uno adicional sustituyendo la letra de su DNI.
 Una vez contestadas todas las preguntas, su reserva estará finalizada y podrá salir del menú pulsando la tecla 3 seguido de enter, esta acción te llevará al menú de inicio.
 
-### Menú de checkout :tw-1f4b8:
+### Menú de checkout :money_with_wings:
 ------------
-#### ¿Cómo se utiliza? :tw-2b50:
+#### ¿Cómo se utiliza? :star:
 Si hemos elegido la opción 3 se procederá a recoger la información de su reserva.
 ![](https://cdn.discordapp.com/attachments/1161335251021332530/1174439007321600122/image.png?ex=6567988f&is=6555238f&hm=e2286ba9e1d61e5874e524f38794672957eb53cbeebdd58c9d10ac0cc34e3bb0&)
 
@@ -92,7 +92,7 @@ Al introducir su dinero, si este es mayor, se le calculará automaticamente su c
 
 Después de haberle mostrado su cambio, pulse cualquier tecla seguida de enter para volver al menú de inicio.
 
-### Menú de estado de ocupación :tw-1f4e4: :tw-1f4e5:
+### Menú de estado de ocupación :inbox_tray: :outbox_tray:
 ------------
 #### ¿Cómo se utiliza? :tw-2b50:
 Este menú es muy simple, te mostrará en pantalla todas las habitaciones y su estado de ocupación, si están libres u ocupadas.
