@@ -67,8 +67,9 @@ Si escogemos la opcion 2 nos mostrará lo siguiente.
 Simplemente este menú te muestra cuantas monedas y billetes quedan para seguir realizando el cobro de las facturas.
 Para poder salir de este menú tendremos que pulsar la tecla Enter y nos llevará nuevamente al menú de inicio para poder elegir otras opciones.
 #### Apagar el software
-Si escogemos la última opción, la número 3, apagaremos el software y finalizará el programa, está opción es la unica en todo el software que sirve para finalizar el programa y solo se encuentra en el menú de administrador.
 ![](https://cdn.discordapp.com/attachments/1161335251021332530/1174437943683846154/image.png?ex=65679791&is=65552291&hm=40909cc67d00a880c82b7fc6cb13058526c38891bb92943a4d74264e03565069&)
+Si escogemos la última opción, la número 3, apagaremos el software y finalizará el programa, está opción es la unica en todo el software que sirve para finalizar el programa y solo se encuentra en el menú de administrador.
+
 
 ### Menú de reservar habitación :1234:
 ------------
