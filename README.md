@@ -115,8 +115,3 @@ Este menú es muy simple, te mostrará en pantalla todas las habitaciones y su e
 ![](https://cdn.discordapp.com/attachments/1161335251021332530/1174439884585443348/image.png?ex=65679960&is=65552460&hm=5f5d1a1c57bdb1dedfcacc7992c01a1b686e6cdb005f0945f8394516692634c7&)
 
 Para salir de este menú deberá pulsar una tecla cualquiera, presionar enter y será redirigido al menú de inicio.
-
------------------------------------------------------------------------------------------------------------------------------------------
-![img](https://media.discordapp.net/attachments/1161335251021332530/1193063973046726776/IMAGEN_1_page-0001.jpg?ex=65ab5a69&is=6598e569&hm=378dac9ffc4728451950761e21aecfec25e8f2729a9310b27f7e1757cc4ae535&=&format=webp&width=468&height=662)
-
-![img](https://media.discordapp.net/attachments/1161335251021332530/1193070542857703445/im2.jpg?ex=65ab6087&is=6598eb87&hm=f7534760c6dab27e6d5b3ab8d57e508c7302f27fe449706a181b8c918b46f633&=&format=webp&width=468&height=662)
